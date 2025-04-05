@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "ListNowTasks"
 include(":app")
+include(":features:tasks")
+include(":core:core-ui")

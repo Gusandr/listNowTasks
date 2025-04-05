@@ -1,4 +1,4 @@
-package ru.gusandr.listnowtasks.ui.theme
+package ru.gusandr.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
